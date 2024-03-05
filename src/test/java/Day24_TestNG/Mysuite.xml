@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+
+<suite name="mysuite">
+	
+	<test name="mytest">
+		
+		<classes>
+			<class name="Day24_TestNG.First_Testcase"/>
+			<class name="Day24_TestNG.OrangeHrmlogin"/>
+		</classes>
+	</test>
+</suite>

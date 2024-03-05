@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-05T17:31:24 IST" name="Suite" finished-at="2024-03-05T17:31:39 IST" duration-ms="14968">
+    <groups>
+    </groups>
+    <test started-at="2024-03-05T17:31:24 IST" name="Test" finished-at="2024-03-05T17:31:39 IST" duration-ms="14968">
+      <class name="Day24_TestNG.OrangeHrmlogin">
+        <test-method signature="openapp()[pri:1, instance:Day24_TestNG.OrangeHrmlogin@5f058f00]" started-at="2024-03-05T17:31:24 IST" name="openapp" finished-at="2024-03-05T17:31:38 IST" duration-ms="14125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="validation()[pri:2, instance:Day24_TestNG.OrangeHrmlogin@5f058f00]" started-at="2024-03-05T17:31:38 IST" name="validation" finished-at="2024-03-05T17:31:38 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation -->
+        <test-method signature="login()[pri:3, instance:Day24_TestNG.OrangeHrmlogin@5f058f00]" started-at="2024-03-05T17:31:38 IST" name="login" finished-at="2024-03-05T17:31:38 IST" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logout()[pri:4, instance:Day24_TestNG.OrangeHrmlogin@5f058f00]" started-at="2024-03-05T17:31:38 IST" name="logout" finished-at="2024-03-05T17:31:39 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- Day24_TestNG.OrangeHrmlogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

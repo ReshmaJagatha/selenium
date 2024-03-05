@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="OwnPractice.OrangeHrmLogin"/>
+      <class name="OwnPractice.Annotations_BeforeSuite"/>
+      <class name="OwnPractice.Annotation_BeforeMethod"/>
+      <class name="OwnPractice.class1"/>
+      <class name="OwnPractice.FirsttestCase"/>
+      <class name="OwnPractice.Annotations_Beforeclass"/>
+      <class name="OwnPractice.Annotations_BeforeTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
